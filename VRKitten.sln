@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRKitten.CSharp", "VRKitten.CSharp.csproj", "{27DD656C-7DC5-B71D-307E-2A803FB3167C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRKitten.CSharp.Editor", "VRKitten.CSharp.Editor.csproj", "{A589DBAF-4D59-A306-97C2-4E9520944C26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27DD656C-7DC5-B71D-307E-2A803FB3167C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27DD656C-7DC5-B71D-307E-2A803FB3167C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27DD656C-7DC5-B71D-307E-2A803FB3167C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27DD656C-7DC5-B71D-307E-2A803FB3167C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A589DBAF-4D59-A306-97C2-4E9520944C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A589DBAF-4D59-A306-97C2-4E9520944C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A589DBAF-4D59-A306-97C2-4E9520944C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A589DBAF-4D59-A306-97C2-4E9520944C26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
